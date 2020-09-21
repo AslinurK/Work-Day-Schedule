@@ -1,4 +1,3 @@
 # Work-Day-Schedule
 
-The assignment here was to create a calendar page that takes in notes/todos for typical work hours and saves them to local storage for future reference, even after the browser is closed or the page is refreshed. 
-
+Created a simple calendar application that allows the user to save events for each hour of the day. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
